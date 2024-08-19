@@ -1,0 +1,10 @@
+name: earthquake
+title:
+username: ts-shrp
+account: ts-shrp
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12476145
+bundleId: 9001120
+url: https://ts-shrp.shinyapps.io/earthquake/
+version: 1
